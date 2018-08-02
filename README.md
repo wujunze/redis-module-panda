@@ -1,6 +1,12 @@
 # redis-module-panda
 A simple redis module ,  Just for fun
 
+## Inspire And Thanks
+
+https://redis.io/topics/modules-intro
+https://redislabs.com/community/redis-modules-hub/
+https://github.com/erans/redissnowflake
+https://github.com/dayeshisir/redis_module_timestamp
 
 ## Install
 
